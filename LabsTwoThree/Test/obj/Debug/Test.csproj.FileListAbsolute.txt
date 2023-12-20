@@ -1,0 +1,10 @@
+D:\VKId\c#\LabsTwoThree\Test\bin\Debug\Test.exe.config
+D:\VKId\c#\LabsTwoThree\Test\bin\Debug\Test.exe
+D:\VKId\c#\LabsTwoThree\Test\bin\Debug\Test.pdb
+D:\VKId\c#\LabsTwoThree\Test\bin\Debug\AVLTreeLib.dll
+D:\VKId\c#\LabsTwoThree\Test\bin\Debug\AVLTreeLib.pdb
+D:\VKId\c#\LabsTwoThree\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\VKId\c#\LabsTwoThree\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VKId\c#\LabsTwoThree\Test\obj\Debug\Test.csproj.CopyComplete
+D:\VKId\c#\LabsTwoThree\Test\obj\Debug\Test.exe
+D:\VKId\c#\LabsTwoThree\Test\obj\Debug\Test.pdb

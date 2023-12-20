@@ -1,0 +1,6 @@
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\obj\Debug\AVLTreeLib.csproj.AssemblyReference.cache
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\obj\Debug\AVLTreeLib.csproj.CoreCompileInputs.cache
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\bin\Debug\AVLTreeLib.dll
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\bin\Debug\AVLTreeLib.pdb
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\obj\Debug\AVLTreeLib.dll
+D:\VKId\c#\LabsTwoThree\AVLTreeLib\obj\Debug\AVLTreeLib.pdb
